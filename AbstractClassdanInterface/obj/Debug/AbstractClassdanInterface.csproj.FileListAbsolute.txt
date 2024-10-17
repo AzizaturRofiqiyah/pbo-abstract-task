@@ -1,0 +1,7 @@
+D:\SMT 3\PBO\AbstractClassdanInterface\AbstractClassdanInterface\bin\Debug\AbstractClassdanInterface.exe.config
+D:\SMT 3\PBO\AbstractClassdanInterface\AbstractClassdanInterface\bin\Debug\AbstractClassdanInterface.exe
+D:\SMT 3\PBO\AbstractClassdanInterface\AbstractClassdanInterface\bin\Debug\AbstractClassdanInterface.pdb
+D:\SMT 3\PBO\AbstractClassdanInterface\AbstractClassdanInterface\obj\Debug\AbstractClassdanInterface.csproj.AssemblyReference.cache
+D:\SMT 3\PBO\AbstractClassdanInterface\AbstractClassdanInterface\obj\Debug\AbstractClassdanInterface.csproj.CoreCompileInputs.cache
+D:\SMT 3\PBO\AbstractClassdanInterface\AbstractClassdanInterface\obj\Debug\AbstractClassdanInterface.exe
+D:\SMT 3\PBO\AbstractClassdanInterface\AbstractClassdanInterface\obj\Debug\AbstractClassdanInterface.pdb
